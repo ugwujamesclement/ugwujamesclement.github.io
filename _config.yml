@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jamesclement Onyekachi Ugwu"
   pronouns         : "He/him"  
-  bio              : "Interdisciplinary Research | Health | Finance | Agriculture | and NTDs"
+  bio              : "Interdisciplinary Researcher | Health | Finance | Agriculture | Trachoma, Malaria and Vector-borne NTDs"
   location         : "Abuja, Nigeria"
   employer         : "ICERP"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
