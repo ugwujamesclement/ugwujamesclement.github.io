@@ -13,3 +13,5 @@ redirect_from:
 ### Domain-Specific CVs (2 pages each)
 
 - [Health and epidemiology](/files/Jamesclement_Health_CV_Website.pdf)
+- [Agricultural economics](/files/Jamesclement_Agriculture_CV_Website.pdf)
+- [Financial economics](/files/Jamesclement_Finance_CV_Website.pdf)
